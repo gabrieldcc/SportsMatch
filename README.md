@@ -12,5 +12,5 @@ I could practice some topics, such as:
 Autolayout
 API Request
 Viewcode
-Some principles of SOLID
+some principles of SOLID
 Clean Code
